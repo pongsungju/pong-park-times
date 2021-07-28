@@ -149,12 +149,12 @@ footer{
     background-color:#d7c7e9;
 }
 
-
 a{
     display:block;
     text-decoration:none;
+    color:#5c397c;
+    font-weight:bold;
 }
-
 
 .group:before,
 .group:after{
