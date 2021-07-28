@@ -121,6 +121,8 @@ footer{
 a{
     display:block;
     text-decoration:none;
+    color:#5c397c;
+    font-weight:bold;
 }
 
 .group:before,
