@@ -46,7 +46,7 @@ header{
 }
 header h1{
     margin:0;
-    font-weight:bold;
+    font-weight:normal;
     font-size:165%;
     font-style:oblique;
     text-shadow:2px 2px 3px #6b5382;
