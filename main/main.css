@@ -34,7 +34,7 @@ z-index bigger, will be on top*/
     max-width:940px;
     margin-left: auto;
     margin-right:auto;
-    background-color:#FFFFFF;
+    background-color:#FFF;
     padding-left:40px;
     padding-right:40px;
     box-sizing:border-box;
@@ -42,6 +42,7 @@ z-index bigger, will be on top*/
 header{
     padding-top:20px;
     color:#5c397c;
+    color:#FFFFFF;
 
 }
 header h1{
