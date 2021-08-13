@@ -1,6 +1,6 @@
 
 html{
-    
+    background-color:#cab4e0;
     line-height:2;
 }
 body{
@@ -34,7 +34,7 @@ z-index bigger, will be on top*/
     max-width:940px;
     margin-left: auto;
     margin-right:auto;
-    background-color:#FFF;
+    background-color:#FFFFFF;
     padding-left:40px;
     padding-right:40px;
     box-sizing:border-box;
