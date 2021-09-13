@@ -12,8 +12,7 @@ img{
     max-width:100%;
     height:auto;
 }
-/*banner overlay
-z-index bigger, will be on top*/
+
 
 .banner-description{
     position:absolute;
@@ -137,9 +136,4 @@ a{
 .group{
     zoom:1;
 
-}
-
-html{
-    background-color:#cab4e0;
-    background-image:linear-gradient(to bottom, #cab4e0,rgb(104, 71, 104));
 }
