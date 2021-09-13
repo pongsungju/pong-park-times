@@ -43,6 +43,7 @@ z-index bigger, will be on top*/
 header{
     padding-top:20px;
     color:#5c397c;
+    
 
 }
 header h1{
@@ -70,6 +71,7 @@ header p{
 .content-area{
     border-top: 3px solid #6b5382;
     border-bottom: 3px solid #6b5382;
+    background-color:#FFF;
 }
 .main-area{
     width: 66%;
