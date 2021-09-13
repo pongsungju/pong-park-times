@@ -1,7 +1,7 @@
 
 html{
     background-color:#cab4e0;
-    
+    background-image:linear-gradient(to bottom, #cab4e0,rgb(104, 71, 104));
     line-height:2;
 }
 body{
@@ -71,13 +71,13 @@ header p{
 .content-area group{
     border-top: 3px solid #6b5382;
     border-bottom: 3px solid #6b5382;
+    background-color:#FFFFFF;
 }
 .main-area{
     width: 66%;
     float: left;
     padding-right:40px;
     box-sizing:border-box;
-    background-color:#FFFFFF;
 }
 .sidebar{
     width: 34%;
