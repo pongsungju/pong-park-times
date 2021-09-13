@@ -1,6 +1,7 @@
 
 html{
     background-color:#FFFFFF;
+    background-image:linear-gradient(to bottom, #cab4e0,rgb(104, 71, 104));
     line-height:2;
 }
 body{
