@@ -68,7 +68,7 @@ header p{
     text-indent:30px;
 }
 
-.content-area{
+.content-area group{
     border-top: 3px solid #6b5382;
     border-bottom: 3px solid #6b5382;
     background-color:#FFF;
