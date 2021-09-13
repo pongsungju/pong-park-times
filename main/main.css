@@ -138,3 +138,8 @@ a{
     zoom:1;
 
 }
+
+html{
+    background-color:#cab4e0;
+    background-image:linear-gradient(to bottom, #cab4e0,rgb(104, 71, 104));
+}
