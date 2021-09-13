@@ -71,13 +71,13 @@ header p{
 .content-area group{
     border-top: 3px solid #6b5382;
     border-bottom: 3px solid #6b5382;
-    background-color:#FFFFFF;
 }
 .main-area{
     width: 66%;
     float: left;
     padding-right:40px;
     box-sizing:border-box;
+    background-color:#FFFFFF;
 }
 .sidebar{
     width: 34%;
